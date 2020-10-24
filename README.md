@@ -1,4 +1,4 @@
-# Sectigo-BigIQ
+# CERTainly
 This is my attempt to create integration between Sectigo and F5 Big-IQ using Rest API.
 
 Future additions will include:
